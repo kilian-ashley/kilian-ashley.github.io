@@ -14,4 +14,4 @@ Third iteration of her personal website built with Jekyll.
 
 ### Reference
 
-bchiang7.github.io/
+https://bchiang7.github.io/
