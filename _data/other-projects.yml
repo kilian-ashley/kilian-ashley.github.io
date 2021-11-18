@@ -3,10 +3,10 @@
   code: https://github.com/elizabeth-ashley/elizabeth-ashley.github.io/
   description: My first portfolio website I designed and built and learned a lot about HTML, CSS/SCSS, JavaScript and Git.
   used:
-    - thing: Jekyll
     - thing: HTML
     - thing: CSS/SCSS
     - thing: JavaScript
+    - thing: Jekyll    
     - thing: Github Pages
 
 # - name: Surf Videos
