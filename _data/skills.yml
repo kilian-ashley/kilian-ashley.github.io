@@ -1,17 +1,18 @@
 languages:
   - item: Python
   - item: MATLAB
-  - item: LaTeX
-  - item: Markdown
+  - item: LaTeX & Markdown
+  - item: HTML & CSS
   - item: R
 
 softwares:
   - item: ArcGIS
   - item: QGIS
-  - item: GMT
+  - item: GMTSAR
+  - item: ISCE
 
 tools:
-  - item: Linux 
+  - item: Linux
   - item: Bash
   - item: Jupyter
   - item: Git & Github
