@@ -1,3 +1,11 @@
+- name: Graphic Designs
+  url: https://elizabeth-ashley.github.io/code/docs/home/design/
+  code: https://elizabeth-ashley.github.io/code/docs/home/design/
+  description: Some designs I have made to bring scince together wiht beautiful art.
+  used:
+    - thing: Illustrator
+    - thing: InDesign
+
 - name: Personal Website
   url: https://elizabeth-ashley.github.io/
   code: https://github.com/elizabeth-ashley/elizabeth-ashley.github.io/
@@ -6,9 +14,8 @@
     - thing: HTML
     - thing: CSS/SCSS
     - thing: JavaScript
-    - thing: Jekyll    
+    - thing: Jekyll
     - thing: Github Pages
-
 # - name: Surf Videos
 #   url: https://github.com/bchiang7/Surf-Videos
 #   code: https://github.com/bchiang7/Surf-Videos
