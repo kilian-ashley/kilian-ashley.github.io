@@ -6,6 +6,16 @@
     - thing: Illustrator
     - thing: InDesign
 
+- name: Sticker Art Shop
+  url: https://www.redbubble.com/people/elizabethashley/shop
+  code: https://www.redbubble.com/people/elizabethashley/shop
+  description: My REDBUBBLE shop where I sell sticker of my art.
+  used:
+    - thing: Illustrator
+    - thing: Affinity Designer
+    - thing: ipad
+
+
 - name: Personal Website
   url: https://elizabeth-ashley.github.io/
   code: https://github.com/elizabeth-ashley/elizabeth-ashley.github.io/
