@@ -9,7 +9,7 @@ softwares:
   - item: ArcGIS
   - item: QGIS
   - item: GMTSAR
-  - item: ISCE
+  - item: ISCEo
 
 tools:
   - item: Linux
