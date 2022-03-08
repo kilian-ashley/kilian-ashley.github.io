@@ -15,13 +15,13 @@
     - thing: InDesign
     - thing: Procreate
 
-- name: Numerical Modelling
-  url: https://elizabeth-ashley.github.io/code/docs/home/modelling/
-  code: https://elizabeth-ashley.github.io/code/docs/home/modelling/
-  description: Models I have made to similate Earth's geologic processes
-  used:
-    - thing: Python
-    - thing: MATLAB
+# - name: Numerical Modelling
+#   url: https://elizabeth-ashley.github.io/code/docs/home/modelling/
+#   code: https://elizabeth-ashley.github.io/code/docs/home/modelling/
+#   description: Models I have made to similate Earth's geologic processes
+#   used:
+#     - thing: Python
+#     - thing: MATLAB
 
 - name: Sticker Art Shop
   url: https://www.redbubble.com/people/elizabethashley/shop
