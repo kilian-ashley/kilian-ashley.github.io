@@ -1,13 +1,13 @@
 languages:
-  - item: Python
-  - item: MATLAB
+  - item: Python & MATLAB
+  - item: Shell (bash/csh/tcsh)
   - item: LaTeX & Markdown
   - item: HTML & CSS
   - item: R
 
 softwares:
   - item: ArcGIS
-  - item: QGIS/GDAL
+  - item: QGIS & GDAL
   - item: GMTSAR
   - item: ISCE
 
