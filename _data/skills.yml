@@ -7,7 +7,7 @@ languages:
 
 softwares:
   - item: ArcGIS
-  - item: QGIS
+  - item: QGIS/GDAL
   - item: GMTSAR
   - item: ISCE
 
