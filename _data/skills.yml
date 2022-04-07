@@ -5,7 +5,7 @@ languages:
   - item: HTML & CSS
   - item: R
 
-softwares:
+software:
   - item: ArcGIS
   - item: QGIS & GDAL
   - item: GMTSAR
