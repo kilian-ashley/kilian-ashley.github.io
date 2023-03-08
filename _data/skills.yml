@@ -9,7 +9,7 @@ software:
   - item: ArcGIS Pro/Map
   - item: QGIS & GDAL
   - item: GMTSAR
-  - item: ISCE
+  - item: ISCE & SNAP
 
 tools:
   - item: Linux
@@ -22,4 +22,4 @@ design:
   - item: InDesign
   - item: Photoshop
   - item: Procreate
-  - item: Tableau/D3
+  # - item: Tableau/D3
