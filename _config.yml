@@ -17,8 +17,8 @@ social:
     url: https://github.com/elizabeth-ashley
   - title: twitter
     url: https://twitter.com/seismacita
-  - title: linkedn
-    url: https://www.linkedin.com/in/elizabeth-ashley-menezes/   
+  - title: linkedin
+    url: https://www.linkedin.com/in/elizabeth-ashley-menezes/
 
 # Build settings
 markdown: kramdown
