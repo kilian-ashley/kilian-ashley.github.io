@@ -3,10 +3,10 @@ languages:
   - item: Shell (bash/csh/tcsh)
   - item: LaTeX & Markdown
   - item: HTML & CSS
-  - item: R
+
 
 software:
-  - item: ArcGIS
+  - item: ArcGIS Pro/Map
   - item: QGIS & GDAL
   - item: GMTSAR
   - item: ISCE
