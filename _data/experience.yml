@@ -1,23 +1,29 @@
+
+- company: Esri ‑ Environmental Systems Research Institute, Inc.
+  url: https://www.esri.com/en-us/arcgis/products/imagery-remote-sensing/overview
+  time: Sep 2022 - Present
+  position: Radar Specialist, Raster Product Engineer
+
 - company: University of Colorado, Boulder
   url: https://www.colorado.edu/geologicalsciences/elizabeth-menezes
-  time: Aug 2020 - Present
+  time: Aug 2020 - Aug 2022
   position: Graduate Research Assistant
-  
+
 - company: Inspiring Girls Expeditions, Girls on Rock
   url: https://www.inspiringgirls.org/elizabeth-menezes
   time: Dec 2021 - Present
   position: Science and Art Instructor
-  
-- company: Nature, Environment, Science & Technology Studio for the Arts
-  url: http://nestcuboulder.org/
-  time: May 2021 - Present
-  position: Children's Book Writer  
-  
+
+# - company: Nature, Environment, Science & Technology Studio for the Arts
+#   url: http://nestcuboulder.org/
+#   time: May 2021 - Present
+#   position: Children's Book Writer
+
 - company: U.S. Bureau of Reclamation, CO
   url: https://usbr.gov/
   time: May 2021 - July 2021
   position: Seismic Hazard Intern
-  
+
 - company: Halliburton Energy Services Inc., Norway
   url: https://www.halliburton.com/en/about-us
   time: Sep 2019 - Aug 2020
@@ -26,9 +32,9 @@
 - company: Halliburton Energy Services Inc., Houston
   url: https://www.halliburton.com/en/about-us
   time: Sep 2018 - Aug 2019
-  position: Field Engineer 
+  position: Field Engineer
 
-- company: Denali National Park & Preserve, Alaska 
+- company: Denali National Park & Preserve, Alaska
   url: https://www.nps.gov/rlc/murie/index.htm
   time: May 2018 - Aug 2018
   position: Science Communicator Intern
