@@ -1,7 +1,7 @@
 # Site settings
 name: Elizabeth Ashley Menezes
 title: Elizabeth Ashley Menezes | Portfolio
-description: Design-minded scientist focused on communicating beautiful science & user experiences 
+description: Design-minded scientist focused on communicating beautiful science & user experiences
 url: https://elizabeth-ashley.github.io/
 baseurl: ''
 email: designer.elizabeth.ashley@gmail.com
@@ -16,7 +16,9 @@ social:
   - title: github
     url: https://github.com/elizabeth-ashley
   - title: twitter
-    url: https://twitter.com/seismacita    
+    url: https://twitter.com/seismacita
+  - title: linkedn
+    url: https://www.linkedin.com/in/elizabeth-ashley-menezes/   
 
 # Build settings
 markdown: kramdown
