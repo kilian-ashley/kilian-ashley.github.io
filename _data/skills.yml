@@ -13,9 +13,9 @@ software:
 
 tools:
   - item: Linux
-  - item: Bash
   - item: Jupyter
   - item: Git & Github
+  - item: XAML
 
 design:
   - item: Illustrator
