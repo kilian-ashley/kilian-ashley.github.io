@@ -1,7 +1,7 @@
 {
   "name": "kilian-ashley.github.io",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "Biogeochemist focused on climate science",
   "repository": {
     "type": "git",
     "url": "https://github.com/kilian-ashley/kilian-ashley.github.io"
@@ -12,7 +12,7 @@
     "start": "gulp serve --watch",
     "build": "gulp build"
   },
-  "author": "Brittany Chiang",
+  "author": "Elizabeth Ashley",
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
