@@ -1,14 +1,14 @@
 - name: Graphic Designs
-  url: https://elizabeth-ashley.github.io/code/docs/home/design/
-  code: https://elizabeth-ashley.github.io/code/docs/home/design/
+  url: https://kilian-ashley.github.io/code/docs/home/design/
+  code: https://kilian-ashley.github.io/code/docs/home/design/
   description: Some designs I have created to bring scince together with beautiful art.
   used:
     - thing: Illustrator
     - thing: InDesign
 
 - name: Art Works
-  url: https://elizabeth-ashley.github.io/code/docs/home/art/
-  code: https://elizabeth-ashley.github.io/code/docs/home/art/
+  url: https://kilian-ashley.github.io/code/docs/home/art/
+  code: https://kilian-ashley.github.io/code/docs/home/art/
   description: Some art illustrations I have created.
   used:
     - thing: Illustrator
@@ -16,8 +16,8 @@
     - thing: Procreate
 
 # - name: Numerical Modelling
-#   url: https://elizabeth-ashley.github.io/code/docs/home/modelling/
-#   code: https://elizabeth-ashley.github.io/code/docs/home/modelling/
+#   url: https://kilian-ashley.github.io/code/docs/home/modelling/
+#   code: https://kilian-ashley.github.io/code/docs/home/modelling/
 #   description: Models I have made to similate Earth's geologic processes
 #   used:
 #     - thing: Python
@@ -34,7 +34,7 @@
 
 
 - name: Portfolio Website
-  url: https://elizabeth-ashley.github.io/
+  url: https://kilian-ashley.github.io/
   code: https://github.com/elizabeth-ashley/elizabeth-ashley.github.io/
   description: My first portfolio website I designed and built and learned a lot about HTML, CSS/SCSS, JavaScript and Git.
   used:
