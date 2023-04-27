@@ -1,24 +1,24 @@
 # Site settings
-name: Elizabeth Ashley Menezes
-title: Elizabeth Ashley Menezes | Portfolio
-description: Design-minded scientist focused on communicating beautiful science & user experiences
-url: https://elizabeth-ashley.github.io/
+name: Kilian Ashley
+title: Kilian Ashley | Portfolio
+description: Biogeochemist focused on climate related issues
+url: https://kilian-ashley.github.io/
 baseurl: ''
-email: designer.elizabeth.ashley@gmail.com
-cover: https://elizabeth-ashley.github.io/img/og.png
-logo: https://elizabeth-ashley.github.io/img/emojis/rainbow.png
-resume: https://elizabeth-ashley.github.io/resume.pdf
+email: kashley@usc.edu
+cover: https://kilian-ashley.github.io/img/og.png
+logo: https://kilian-ashley.github.io/img/emojis/rainbow.png
+resume: https://kilian-ashley.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:designer.elizabeth.ashley@gmail.com
+    url: mailto:kashley@usc.edu
   - title: instagram
-    url: https://instagram.com/seismacita
-  - title: github
-    url: https://github.com/elizabeth-ashley
-  - title: twitter
-    url: https://twitter.com/seismacita
+  #   url: https://instagram.com/seismacita
+  # - title: github
+    url: https://github.com/kilian-ashley
+  # - title: twitter
+  #   url: https://twitter.com/seismacita
   - title: linkedin
-    url: https://www.linkedin.com/in/elizabeth-ashley-menezes/
+    url: https://www.linkedin.com/in/kilian-ashley-ab246771/
 
 # Build settings
 markdown: kramdown
