@@ -1,12 +1,12 @@
 {
-  "name": "elizabeth-ashley.github.io",
+  "name": "kilian-ashley.github.io",
   "version": "0.0.0",
   "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
   "repository": {
     "type": "git",
-    "url": "https://github.com/elizabeth-ashley/elizabeth-ashley.github.io"
+    "url": "https://github.com/kilian-ashley/kilian-ashley.github.io"
   },
-  "homepage": "https://github.com/elizabeth-ashley/elizabeth-ashley.github.io",
+  "homepage": "https://github.com/kilian-ashley/kilian-ashley.github.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",

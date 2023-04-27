@@ -8,10 +8,10 @@
 2.  `npm install`
 3.  `npm start`
 
-## Credit to Brittany Chaing
+## Credit to Elizabeth Ashley
 
 Third iteration of her personal website built with Jekyll.
 
 ### Reference
 
-https://bchiang7.github.io/
+https://elizabeth-ashley.github.io/
