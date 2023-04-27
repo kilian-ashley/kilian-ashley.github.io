@@ -1,12 +1,12 @@
 # Site settings
 name: Elizabeth Ashley Menezes
 title: Elizabeth Ashley Menezes | Scientist
-description: Design-minded scientist focused on communicating beautiful science & user experiences 
+description: Design-minded scientist focused on communicating beautiful science & user experiences
 url: https://kilian-ashley.github.io/
 baseurl: ''
 email: designer.elizabeth.ashley@gmail.com
 cover: https://kilian-ashley.github.io/img/og.png
-logo: https://kilian-ashley.github.io/img/emojis/rainbow.png
+logo: https://kilian-ashley.github.io/img/emojis/fire.png
 resume: https://kilian-ashley.github.io/resume.pdf
 social:
   - title: email
@@ -16,7 +16,7 @@ social:
   - title: github
     url: https://github.com/elizabeth-ashley
   - title: twitter
-    url: https://twitter.com/seismacita    
+    url: https://twitter.com/seismacita
 
 # Build settings
 markdown: kramdown
