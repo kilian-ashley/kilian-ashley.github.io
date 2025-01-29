@@ -1,25 +1,16 @@
-languages:
-  - item: Python & MATLAB
-  - item: Shell (bash/csh/tcsh)
-  - item: LaTeX & Markdown
-  - item: HTML & CSS
+instruments:
+  - item: Mass Spectrometry
+  - item: Raman
+  - item: XRD, XRF, SEM, and ICP‑OES
+  - item: Fluorescence Microscopy
 
+languages:
+  - item: Python
+  - item: MATLAB
+  - item: R
+  - item: LaTeX & Markdown
 
 software:
   - item: ArcGIS Pro/Map
-  - item: QGIS & GDAL
-  - item: GMTSAR
-  - item: ISCE & SNAP
-
-tools:
-  - item: Linux
-  - item: Jupyter
-  - item: Git & Github
-  - item: XAML
-
-design:
-  - item: Illustrator
-  - item: InDesign
-  - item: Photoshop
-  - item: Procreate
-  # - item: Tableau/D3
+  - item: AdobeIllustrator & Photoshop
+  - item: Microsoft Suite
