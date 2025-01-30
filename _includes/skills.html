@@ -7,7 +7,7 @@
         <div class="skillz__category__label">Languages</div>
         <ul>
           {% for language in site.data.skills.languages %}
-          <li class="skillz__category__item">{{languages.item}}</li>
+          <li class="skillz__category__item">{{language.item}}</li>
           {% endfor %}
         </ul>
       </div>
@@ -22,8 +22,8 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Instruments</div>
         <ul>
-          {% for tool in site.data.skills.instruments %}
-          <li class="skillz__category__item">{{instruments.item}}</li>
+          {% for instrument in site.data.skills.instruments %}
+          <li class="skillz__category__item">{{instrument.item}}</li>
           {% endfor %}
         </ul>
       </div>
