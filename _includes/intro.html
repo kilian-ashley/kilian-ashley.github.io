@@ -13,24 +13,18 @@
     <span>Get in touch </span>
     <span class="emoji pointer"></span>
     <span>
-      {% for link in site.social %}
-      <a href="{{link.url}}" target="_blank" title="{{link.title}}">
-        <span class="text">{{link.title}}</span>
-        <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
-      </a>
-      {% endfor %}
+      <div class="footer__links">
+        {% for link in site.social %}
+        <a href="{{link.url}}" target="_blank" title="{{link.title}}">
+          <span class="text">{{link.title}}</span>
+          <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
+        </a>
+        {% endfor %}
+      </div>
+
       <!-- <a href="mailto:kashley@usc.edu" target="_blank" class="highlight-link">kashley@usc.edu</a> -->
     </span>
-    <!-- <div class="footer__links">
-      {% for link in site.social %}
-      <a href="{{link.url}}" target="_blank" title="{{link.title}}">
-        <span class="text">{{link.title}}</span>
-        <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
-      </a>
-      {% endfor %}
-    </div> -->
+
   </h3>
-  <h1 class="intro__hello"> 
-    <!-- <span class="emoji wave-hand animated"></span> -->
-  </h1>
+
 </header>
