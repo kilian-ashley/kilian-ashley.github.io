@@ -2,28 +2,28 @@
   url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NidIrL7av-EC&citation_for_view=NidIrL7av-EC:u5HHmVD_uO8C
   code: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NidIrL7av-EC&citation_for_view=NidIrL7av-EC:u5HHmVD_uO8C
   description: Barnhart, E. P.; Ruppert, L.; Hiebert, R.; Smith, H.; Schweitzer, H.; Clark, A.; Weeks, E.; Orem, W.; Varonka, M.; Platt, G.; Shelton, J.; Davis, K. J.; Hyatt, R.; McIntosh, J.; Ashley, K.; Ono, S.; Martini, A.; Hackley, K.; Gerlach, R.; Spangler, L.; Phillips, A.; Cunningham, A.; & Fields, M. (2022) In Situ Enhancement and Isotopic Labeling of Biogenic Coalbed Methane. Environ. Sci. Technol. 2022, 56, 5, 3225–3233
-  used:
-    - thing: Illustrator
-    - thing: InDesign
+  # used:
+  #   - thing: Illustrator
+  #   - thing: InDesign
 
 - name: Deuterium as a quantitative tracer of enhanced microbial methane production
   url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NidIrL7av-EC&citation_for_view=NidIrL7av-EC:d1gkVwhDpl0C
   code: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NidIrL7av-EC&citation_for_view=NidIrL7av-EC:d1gkVwhDpl0C
   description: Ashley, K. Davis, K. J.; Martini, A.; Vinson, D. S.; Gerlach, R.; Fields, M. W.; & McIntosh, J. (2021) Deuterium as a quantitative tracer of enhanced microbial methane production. Fuel 289, <a class="underline-link" href="https://doi.org/10.1016/j.fuel.2020.119959" target="_blank">https://doi.org/10.1016/j.fuel.2020.119959</a>.
-  used:
-    - thing: Illustrator
-    - thing: InDesign
-    - thing: Procreate
+  # used:
+  #   - thing: Illustrator
+  #   - thing: InDesign
+  #   - thing: Procreate
 
 
 - name: Source or Sink? Evaluating CO2 Fluxes From Urban Hardscape Surfaces
   url: https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Paper/23094
   code: https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Paper/23094
   description: Ashley, K. Berelson, W.; LaRowe, D; & West, A.J. (2024) Source or Sink? Evaluating CO2 Fluxes From Urban Hardscape Surfaces, Goldschmidt Geochemistry Conference, Chicago, IL
-  used:
-    - thing: Illustrator
-    - thing: Procreate
-    - thing: ipad
+  # used:
+  #   - thing: Illustrator
+  #   - thing: Procreate
+  #   - thing: ipad
 
 #
 # - name: Portfolio Website
