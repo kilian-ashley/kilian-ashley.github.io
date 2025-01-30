@@ -1,9 +1,3 @@
-instruments:
-  - item: Mass Spectrometry
-  - item: Raman
-  - item: XRD, XRF, SEM, and ICP‑OES
-  - item: Fluorescence Microscopy
-
 languages:
   - item: Python
   - item: MATLAB
@@ -14,3 +8,9 @@ software:
   - item: ArcGIS Pro/Map
   - item: AdobeIllustrator & Photoshop
   - item: Microsoft Suite
+
+instruments:
+  - item: Mass Spectrometry
+  - item: Raman
+  - item: XRD, XRF, SEM, and ICP‑OES
+  - item: Fluorescence Microscopy
