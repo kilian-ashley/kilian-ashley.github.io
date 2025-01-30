@@ -15,13 +15,16 @@
     <span>
       <a href="mailto:kashley@usc.edu" target="_blank" class="highlight-link">kashley@usc.edu</a>
     </span>
+    <span>
+      <div class="footer__links">
+        {% for link in site.social %}
+        <a href="{{link.url}}" target="_blank" title="{{link.title}}">
+          <span class="text">{{link.title}}</span>
+          <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
+        </a>
+        {% endfor %}
+      </div>
+    </span>
   </h3>
-  <div class="footer__links">
-    {% for link in site.social %}
-    <a href="{{link.url}}" target="_blank" title="{{link.title}}">
-      <span class="text">{{link.title}}</span>
-      <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
-    </a>
-    {% endfor %}
-  </div>
+
 </header>
