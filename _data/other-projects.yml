@@ -9,7 +9,7 @@
 - name: Deuterium as a quantitative tracer of enhanced microbial methane production
   url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NidIrL7av-EC&citation_for_view=NidIrL7av-EC:d1gkVwhDpl0C
   code: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NidIrL7av-EC&citation_for_view=NidIrL7av-EC:d1gkVwhDpl0C
-  description: Ashley, K. Davis, K. J.; Martini, A.; Vinson, D. S.; Gerlach, R.; Fields, M. W.; & McIntosh, J. (2021) Deuterium as a quantitative tracer of enhanced microbial methane production. Fuel 289, https://doi.org/10.1016/j.fuel.2020.119959.
+  description: Ashley, K. Davis, K. J.; Martini, A.; Vinson, D. S.; Gerlach, R.; Fields, M. W.; & McIntosh, J. (2021) Deuterium as a quantitative tracer of enhanced microbial methane production. Fuel 289, <a class="underline-link" href="https://doi.org/10.1016/j.fuel.2020.119959" target="_blank">https://doi.org/10.1016/j.fuel.2020.119959</a>.
   used:
     - thing: Illustrator
     - thing: InDesign
