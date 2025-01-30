@@ -6,11 +6,11 @@ languages:
 
 software:
   - item: ArcGIS Pro/Map
-  - item: AdobeIllustrator & Photoshop
+  - item: Adobe Illustrator & Photoshop
   - item: Microsoft Suite
 
 instruments:
   - item: Mass Spectrometry
   - item: Raman
-  - item: XRD, XRF, SEM, and ICP‑OES
+  - item: XRD, XRF, SEM, & ICP‑OES
   - item: Fluorescence Microscopy
